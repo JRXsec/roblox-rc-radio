@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#14203a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00c8ff"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <!-- grid -->
+  <g stroke="#ffffff" stroke-opacity="0.04">
+    <path d="M0 60H1280M0 120H1280M0 180H1280M0 240H1280M0 300H1280"/>
+    <path d="M160 0V360M320 0V360M480 0V360M640 0V360M800 0V360M960 0V360M1120 0V360"/>
+  </g>
+
+  <!-- title -->
+  <text x="64" y="128" fill="#ffffff" font-size="64" font-weight="800">Roblox RC Radio</text>
+  <text x="64" y="180" fill="#9fb3d1" font-size="28">Fly Roblox drone games with your real transmitter</text>
+  <rect x="64" y="214" width="420" height="56" rx="28" fill="url(#accent)"/>
+  <text x="274" y="251" fill="#ffffff" font-size="26" font-weight="700" text-anchor="middle">One double-click · done</text>
+  <text x="64" y="316" fill="#6f84a6" font-size="20">DJI · FrSky · EMAX · Radiomaster · Jumper · BetaFPV · TBS</text>
+
+  <!-- transmitter -->
+  <g transform="translate(700 70)">
+    <rect x="0" y="40" width="300" height="190" rx="48" fill="#1e2a44" stroke="#3a4d74" stroke-width="3"/>
+    <rect x="40" y="0" width="10" height="50" rx="5" fill="#3a4d74"/>
+    <rect x="250" y="0" width="10" height="50" rx="5" fill="#3a4d74"/>
+    <circle cx="85" cy="135" r="52" fill="#0f1729" stroke="#00c8ff" stroke-width="3"/>
+    <circle cx="215" cy="135" r="52" fill="#0f1729" stroke="#00c8ff" stroke-width="3"/>
+    <circle cx="85" cy="170" r="14" fill="#00c8ff"/>
+    <circle cx="230" cy="120" r="14" fill="#00c8ff"/>
+    <rect x="125" y="62" width="50" height="22" rx="6" fill="#0f1729"/>
+    <circle cx="140" cy="73" r="5" fill="#2bd67b"/>
+  </g>
+
+  <!-- arrow -->
+  <g transform="translate(1012 175)">
+    <path d="M0 0H70" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M58 -16L78 0L58 16" fill="none" stroke="#7c5cff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- roblox-ish tile (generic) -->
+  <g transform="translate(1110 120)">
+    <rect x="0" y="0" width="110" height="110" rx="18" fill="#ffffff" transform="rotate(12 55 55)"/>
+    <rect x="38" y="38" width="34" height="34" rx="4" fill="#14203a" transform="rotate(12 55 55)"/>
+    <text x="55" y="160" fill="#2bd67b" font-size="20" font-weight="700" text-anchor="middle">Gamepad1 ✓</text>
+  </g>
+</svg>
