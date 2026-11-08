@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 84" width="520" height="84" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="2" y="2" width="516" height="80" rx="40" fill="#2bd67b"/>
+  <g transform="translate(64 42)" stroke="#0b1020" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 -20V10"/><path d="M-12 -2L0 10L12 -2"/><path d="M-20 20H20"/>
+  </g>
+  <text x="290" y="53" fill="#0b1020" font-size="32" font-weight="800" text-anchor="middle">DOWNLOAD (free)</text>
+</svg>

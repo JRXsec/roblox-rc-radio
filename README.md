@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JRXsec/roblox-rc-radio/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-roblox--rc--radio--main.zip-2bd67b?style=for-the-badge" alt="Download" height="44"></a>
+  <a href="https://github.com/JRXsec/roblox-rc-radio/archive/refs/heads/main.zip"><img src="assets/download.svg" alt="⬇ Download" width="360"></a>
 </p>
 
 <p align="center">
