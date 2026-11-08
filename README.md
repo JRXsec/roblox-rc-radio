@@ -23,7 +23,7 @@
 |:-:|---|---|
 | **1** | Click the green **[⬇ DOWNLOAD](https://github.com/JRXsec/roblox-rc-radio/archive/refs/heads/main.zip)** button | 📥 |
 | **2** | Open your *Downloads* folder → **right-click** `roblox-rc-radio-main.zip` → **Extract All…** → **Extract** | 📂 |
-| **3** | Plug your radio into the PC by USB (choose **USB Joystick / HID** if it asks) and **double-click `SETUP.bat`** | 🎮 |
+| **3** | Plug your radio into the PC by USB (choose **USB Joystick / HID** if it asks) → open the new folder (and the folder inside it) → **double-click `SETUP.bat`** | 🎮 |
 | **4** | **Restart your PC**, open the Roblox game and calibrate your radio in its settings | ✅ |
 
 That's it. You only do this **once**, and it keeps working after Roblox updates.
@@ -59,7 +59,7 @@ Double-click **`UNINSTALL.bat`**. Done.
 |:-:|---|---|
 | **1** | Pulsa el botón verde **[⬇ DESCARGAR](https://github.com/JRXsec/roblox-rc-radio/archive/refs/heads/main.zip)** | 📥 |
 | **2** | Abre la carpeta *Descargas* → **clic derecho** en `roblox-rc-radio-main.zip` → **Extraer todo…** → **Extraer** | 📂 |
-| **3** | Conecta la emisora por USB (elige **USB Joystick / HID** si te pregunta) y haz **doble clic en `SETUP.bat`** | 🎮 |
+| **3** | Conecta la emisora por USB (elige **USB Joystick / HID** si te pregunta) → abre la carpeta nueva (y la que hay dentro) → **doble clic en `SETUP.bat`** | 🎮 |
 | **4** | **Reinicia el PC**, entra al juego de Roblox y calibra la emisora en sus ajustes | ✅ |
 
 - **¿Sale «Windows protegió tu PC»?** Es normal con los `.bat`. Pulsa **Más información** → **Ejecutar de todas formas**.
